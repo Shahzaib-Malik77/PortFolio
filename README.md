@@ -24,16 +24,7 @@ This project showcases:
 - HTML
 - CSS
 
-## Placeholder Content
 
-Some sections currently use placeholder contact details and sample project entries.
-Replace these later with your real:
-
-- Email
-- Phone number
-- Social links
-- Resume URL
-- Project links and screenshots
 
 ## Run Locally
 
@@ -48,7 +39,4 @@ npm run dev
 npm run build
 ```
 
-## Notes
 
-- This version has been rebranded for Shahzaib.
-- Remaining dummy content can be updated anytime without changing the structure.
