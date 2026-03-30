@@ -1,65 +1,52 @@
-# My Portfolio Website - Overview 🚀
+# Shahzaib Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Personal portfolio website for Shahzaib, focused on Flutter development, mobile UI, and software engineering growth.
 
----
+## Overview
 
-## ⚠️ Usage Notice
+This project showcases:
 
-This project is shared for learning purposes only.
+- Hero-based personal introduction
+- About section with software engineering background
+- Career timeline with internship-ready positioning
+- Project showcase cards with placeholder portfolio items
+- Contact section with editable placeholder links
 
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
+## Tech Stack
 
-If you use parts of the code, you must provide proper credit linking back to the original repository.
+- React
+- TypeScript
+- Vite
+- GSAP
+- Three.js
+- HTML
+- CSS
 
-Build your own version — don’t just copy.
+## Placeholder Content
 
-— Moncy Yohannan
+Some sections currently use placeholder contact details and sample project entries.
+Replace these later with your real:
 
----
+- Email
+- Phone number
+- Social links
+- Resume URL
+- Project links and screenshots
 
-## 🛠️ Instructions
+## Run Locally
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+```bash
+npm install
+npm run dev
+```
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+## Build
 
----
+```bash
+npm run build
+```
 
-## ⚙️ Tech Stack
+## Notes
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
-
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
-
----
-
-## 📄 License
-
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
-
-See the LICENSE file for full details
-
+- This version has been rebranded for Shahzaib.
+- Remaining dummy content can be updated anytime without changing the structure.
